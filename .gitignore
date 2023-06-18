@@ -1,2 +1,11 @@
 *.html
 .ipynb_checkpoints/
+.DS_Store
+.datasets/
+.my_custom_model.ckpt/
+.my_logs/
+*.dot
+*.png
+*.h5
+*.proto
+*.tfrecord
